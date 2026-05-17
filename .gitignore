@@ -1,0 +1,7 @@
+.next/
+node_modules/
+church.db
+.env.local
+*.db-journal
+*.db-wal
+*.db-shm
